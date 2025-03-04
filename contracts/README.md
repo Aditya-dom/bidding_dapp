@@ -15,6 +15,10 @@
 
 ## Commands
 
+```bash
+forge install
+```
+
 ### Deploy Auctioneer
 
 ```bash
