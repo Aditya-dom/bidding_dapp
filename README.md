@@ -44,4 +44,14 @@ npm run dev
 2. Enter the amount of `ETH` you wish to commit (Ensure you have enough ETH in your wallet)
 3. Confirm Bid
 
+## Deployments
+
+- Auctioneer: [0x6b08b0b3f272108620d9b01242c927e112a99e51](https://sepolia.basescan.org/address/0x6b08b0b3f272108620d9b01242c927e112a99e51)
+
+## Contracts
+
+- Auctioneer.sol: Factory contract for creating and managing Dutch auctions
+- DutchAuction.sol: A Dutch auction contract for token ICOs (similar to Liquidity Bootstrapping Pools)
+- Token.sol: An ERC20 token contract for the auction
+
 
