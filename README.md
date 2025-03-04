@@ -2,7 +2,7 @@
 
 ## System Design
 
-![image](https://github.com/user-attachments/assets/77e88fad-ca2e-4f80-8a53-96666b1214bd)
+![System Design](assets/systemdesign.png)
 
 ## Features
 
