@@ -1,12 +1,12 @@
 // CONTRACT ADDRESSES
 export const AUCTIONEER_CONTRACT_ADDRESS =
-  "0x166BdC0429fd448b4370733d0Be058e84c56DF4C";
+  "0x6b08b0b3f272108620d9b01242c927e112a99e51";
 
 export const LINK_CONTRACT_ADDRESS =
   "0xE4aB69C077896252FAFBD49EFD26B5D171A32410";
 
 // RPC URLS
-export const BASE_SEPOLIA_RPC_URL = `https://base-sepolia.g.alchemy.com/v2/${process.env.NEXT_PUBLIC_ALCHEMY_API_KEY}`;
+export const BASE_SEPOLIA_RPC_URL = `https://base-sepolia.g.alchemy.com/v2/${process.env.NEXT_PUBLIC_PROJECT_ID}`;
 
 // CHAIN IDS
 export const BASE_SEPOLIA_CHAIN_ID = 84532;
