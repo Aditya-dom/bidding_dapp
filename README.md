@@ -2,7 +2,7 @@
 
 ## System Design
 
-![System Design](assets/systemdesign.png)
+![System Design](/public/assets/systemdesign.png)
 
 ## Features
 
